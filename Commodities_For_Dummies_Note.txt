@@ -1,0 +1,607 @@
+﻿Chapter 1: Overview
+  32 tradable commodities
+  Links to futures & equity markets
+  Vehicles: MLP,ETF,commodities MutualFund.
+  Commodity Def: Tradability, Deliverability, Liquidity
+  Future Markets:
+    Most Direct Way to trade future: (FCM) Futures Commission Merchant
+    Other way: CTA (on your behalf), CPO (Commodity Pool Operator): additional leverage, Commodity Index
+    监管: SEC, CFTC
+  Equity Markets:
+    Public: 公司类型: Mining, Electric Utilities, Integrated Energy Companies
+    MLP: publicly traded partnership, while offer tax advantage
+  Managed Funds: 
+    ETF,Mutual Fund
+  Physical Commodity Purchases:...
+  Big Categories of Commodities: Energy, Metals, Agricultural products
+#End at Page 22, pdf Page 42
+Chapter 2:
+  Commodity Index: Reuters/Jefferies CRB Index
+  洗脑传销。。。
+  Commodity Unique Characteristics:
+    Inelasticity, 
+    As a safe haven (Gold), 
+    Hedge Against Inflation (Gold positively correlate with inflation), 
+    Take time,
+    Cycles.
+  Business Cycle:
+#End at Page 39, pdf Page 57
+Chapter 3:
+  Leverage:
+    Margin requirement for commodity lower than that for stocks. Potentially more risk.
+    Stock Margin: 50%.
+    Commodity: Varies, soybean 4%
+    Immediate margin call.
+  Risks:
+    Sovereign Government risk: 
+      Related to balance sheet of Sovereign Government.
+      Especially Europe countries. 
+      Not only liquidity risk, but also Solvency risk.
+    Geopolitical risk:
+      Geographical distribution of natural resources uneven.
+    Speculative risk: ...
+    Corporate governance risk: Fraud.
+  riskriskrisk...
+#End at Page 56, pdf Page 76
+Chapter 4
+  Get Exposure to Commodities:
+    Commodity Index, FCM, CTA (not allowed to pool), CPO, 
+    Commodity Mutual Fund (PIMCO,Oppenheimer), ETF, Commodity Company,
+    MLP, 
+#End at Page 72, pdf Page 93
+
+Chapter 5: ETF
+  ETF track 对象：
+    例子：DB Commodity Index Tracking Fund(DBC).
+    DBC ETF structured as CPO.
+  Leveraged ETF: ...
+#End at Page 80, pdf Page 100
+
+Chapter 6: Commodity Index
+  Commodity Index track price of future contract of underlying physical commodity on certain exchange.
+  Commodity Index as an investment vehicle:
+    1. Own Future Contracts
+    2. Invest with 3p manager.
+    3. Own Future Contracts of the index.
+    4. ETF.
+  Index Anatomy:
+    Components: Some use production value, some use liquidity and representation value.
+    Weightings: Some proportional to production, some proportional to liquidity of futures contract.
+    Rolling Methodology: update the future contract.
+    Rebalancing: ...
+    Whether to include commodity: tradability (exchange listed, ...), deliverability, liquidity.
+  Examples:
+    S&P GSCI: global production weighting (average of past 5 years), 
+    CRB Index: tiered methodology: Production Value weight to Energy, Fixed weight to other commodities.
+    AIG Commodity Index: Floor and Ceiling Mechanism
+    RICI: Rogers International Commodities Index, include exotic commodities: i.e. Silk, Adzuki Beans.
+    DBLCI: Deutsche Bank Liquid Commodity Index: track two in energy, two in metals, two in Agriculture. Production Value Weighted. Most liquid and representative coommodities in the class.
+  Overall, GSCI most tracked, CRB most watched
+#End at Page 96, pdf Page 116.
+
+Chapter 7: Manager
+  Mutual fund: long-only, buy and hold
+    Prospectus: 
+      Investment objective:
+        Capital Gain, Income Investing.
+      What Securities: ... 
+      Who is Manager: ...
+      What Strategy: ...
+      Typical Investor Profile: ...
+      Main risks: ...
+      Track record: ...
+      After tax perf: ...
+      Fees and Expenses: ...
+      Minimum Capital Commitment: ...
+      Diff Classes of Shares? 
+      Tax implications: ...
+    Terminology:
+      Expense Ratio, 
+      Sales Load (Commission to brokers for public), 
+      Sales Charge (fee charged when investor sell share of the mutual fund)
+      NAV
+    RealWorld Examples:
+      PIMCO Commodity Real Return Strategy Fund:
+        14Billion,
+        Actively managed, 
+	but seeks to mirror performancce of DJ-AIG Commodity Index, 
+	offer two classes of shares: A & B
+      Oppenheimer Real Asset Fund:
+        2 Billion,
+	tracks GSCI, 
+	Five classes of shares,
+  MLP: master limited partnership
+    Is a public entity traded on public exchanges. Issue shares.
+    MLP is also called PTP (publicly traded partnership)
+    Shares are units, unit holder.
+    General Partner & Limited Partner.
+    tax advantage:
+      taxed only once, not subject to double taxation.
+      MLP referred as pass-through entities.
+      MLP required distribute cash back quarterly.
+    General Partner:
+      manager, has financial stake, eligible to receive IDR (incentive distribution rights) <residue after giving to limited partner> according to partnership agreement.
+      GP has often no fiduciary duty to LP.
+    Limited Partner:
+      Almost no influence on operation, only cash flows.
+    MLP yield highest in any asset classes. (Cash distribution.)
+      Average 6 percent, some can be as high as 10 percent.
+    IDR based on tier system: GP participation point increase as more cash flow out, but increase is not as fast as the increase of cash flow itself.
+    Distributable cash flow: feedback
+    Discretionary cash flow: used for operation of MLP.
+    Risks specific to MLP:
+      management (because you have no control in operation)
+      environmental (natural disasters)
+      liquidity (small market, may not be able to sell)
+      terrorism (infrastructure sensitive)
+  CTA:
+    Management fee, Performance fee, (likely to be 2-20.)
+    Other fees.
+  CPO: Likely to be limited partners, not much to lose if lose.
+#End page 112, pdf page 132.
+Chapter 8: Commodity Exchange, Broker, Trading Accounts.
+  Major Commodity Exchanges:
+    Regulators: CFTC, NFA
+  Open an Account:
+    Commodity Broker: FCM or called Introducing Broker (IB).
+  Different Types of Account:
+    Self-Directed Account:
+      You do the trade yourself.
+    Managed Account:
+      Other people trade for you. Choose a CTA.
+#End Page 130, pdf page 150.
+Chapter 9:
+  Future vs. Spot.
+  Buyers: Hedgers, Sellers: Speculators.
+  Details about future contract:
+    Product Grade:
+      i.e. Spec of Gasoline.
+    Last Trading Day:
+  Margin Trading:
+    Instead of GainLoss calculated after position closed, future GainLoss calculated at EOD.
+  Terminology of Future Market:
+    Contango: 
+      When front month trades higher than current month. 后大于前.
+    Backwardation: Oppose of Contango.
+  Options:
+    Premium: Price paid for option.
+#End Page 147, pdf page 167.
+---Energy---
+Chapter 10: Crude Oil
+Global Reserve Estimates:
+  MiddleEast & Venezuela & Russia & Libya & Nigeria & US.
+  Canada, has oil sand, harder to extract.
+Production:
+  Top 10 producers: SaudiArabia, Russia, US, Iran, China, Canada, Mexico, UAE, Kuwait, Venezuela.
+Demand:...
+Export:...
+Import:...
+Chain of Production:
+  Barrel: 42 Gallon
+  Light and Sweet vs. Heavy and Sour.
+  Product Yields: ...
+  Quality Criteria:
+    Density:
+      Lower Density, higher quality.
+      API number of gravity (density of crude oil)
+      Heavy crude API degree 20 or below.
+    Sulfur Content:
+      Higher sulfur, more sour, less desirable.
+    Example:
+      North West Shelf in Australia: API density 60.0, Sulfur 0.01
+      Arab Super Light (Saudi Arabia): Density API 50.0, Sulfur 0.06
+      Bonny Light (Nigeria): Density API 35.4, Sulfur 0.14
+      Duri (Indonesia): Density API 21.5, Sulfur 0.14
+Investment:
+  Oil Companies:
+    Big companies in all phases and small companies specialize in one phase.
+    Individual Oil Companies:
+      ExxonMobil: Earning 36.1B one year, while Saudi Arabia GDP 338B one year.
+    Traditional Oil Company move into other areas in energy:
+      Petrochemical Business, Alternative Energy
+    Enviromental risk: Oil spill
+  Oil Company ETF:
+    XLE: part of family of SPDR.
+    IGE: ...
+    IXC: ...
+  Oversea Investment:
+    Emerging Market : Different Regulations.
+    Emerging Market Fund.
+    Example: 
+      Evergreen Emerging Markets Growth I (EMGYX)
+      Fidelity Emerging Markets (FEMKX)
+#End Page 170, pdf Page 190.
+Chapter 11: Natural Gas
+  Primary Consumers: 
+    Industrial
+    Residential
+    Commercial
+    Generate Electricity, 10% Electricity in US
+  Measurement: Cubic feet (cf), British Thermal Unit (Btu): heat 1 pound of water 1F. 1cf equivalent to 1027 Btu.
+  Liquefied Natural Gas (LNG): easy to transport
+  Investing:
+    Top Reserves: Rus, Iran, Qatar, Saudi, UAE, Nigeria, US, Algeria, Venezuela, Iraq;
+    Companies: 
+      AYE: Allegheny Energy: Eastern US, regional exposure to Natural Gas
+      LNT: Alliant Energy: Throughout US, exposure to North American Natural Gas
+      GAS: Nicor Inc. Centered in Illinois, regional exposure.
+#End Page 184, pdf Page 204.
+Chapter 12:  Renewable Energy
+  Solar Energy:
+    First Solar: Net Profit Margin 22%, photovoltaic 
+    Suntech Power Holdings: ...
+  Wind Energy: ...
+  Biomass: ...
+#End Page 192, pdf page 212.
+Chapter 13: Alternative Energy
+  Coal:
+    23% Fossial Fuel consumption US.
+    Generate Electricity, Steel Manufacturing,
+    Measurement: 
+      short ton: 2000 lbs
+      1 short ton of anthracite (highest quality coal) 25 million Btu of energy.
+    Top Reserve: US, Rus, China, India, Australia, South Africa, Ukraine, Kazakhstan, Poland, Brazil. (Where US, RUS, China sum more than 55 % of reserve)
+    Top Production: China, US, India, ...
+    Demand: expect to increase first quarter of 21st century from emerging markets (China, India, ..etc).
+    Coal Categories:
+      Lignite: least carbon, most sulfur, least valuable. (Brown Coal). Primarily for generating Electricity.
+      Sub-bituminous: more carbon and less sulfur than lignite, higher quality. Heat Water in generating electricity.
+      Bituminous: high value, generate electricity and steel industry.
+      Anthracite: residential, commercial space heating.
+    Investment:
+      Future: CME: future track price of Central Appalachian type of coal (CAPP). Fairly illiquid.
+      Coal Company: 
+        Arch Coal: ACI: small company, high quality coal
+	Consol Energy: CNX: domestic coal market
+	Peabody Energy: BTU: Largest.
+  Nuclear:
+    20% if Electricity in US. 75% in France. 5% globally.
+    Uranium:
+      2000-2008 Bull, $20 to $140
+      Companies:
+        Cameco Corp: CCJ
+	Strathmore COrp: STM
+	UEX Corp: UEX
+      ETF:
+        Global X Uranium ETF: (NYSE:URA)
+      Futures:
+        CME: UX
+  Electricity:
+    Future: CME future track price PJM Interconnection.
+      PJM: Regional Transmission Org (RTO) in US.
+        offer on-peak/off-peak electricity hours.
+      Utility:
+        About 5% dividend yield, highest of any industry.
+        Dividend: taxable source of income. (tax capped 15%.)
+	Companies:
+	  Consolidated Edison (NYSE: ED) NY & NYState, exposure to East Coast.
+	  Duke Energy Corp (NYSE: DUK) East Coast & Midwest & LatinAmerica, exposure to Americas.
+#End page 208, pdf page 228.
+Chapter 14: Energy Companies:
+Process: Exploration and Production -> Transformation -> Transportation
+Exploration and Production:
+  Wildcatting: Dryhole vs. Gusher
+    Involve in E&P business
+  Offshore Drilling:
+    Complicated location, sophisticated equipment
+    Upstream: extra oil from ground/sea.
+    Midstream: Oil refined into consumable products such as gasoline/jetfuel.
+    Downstream: pipeline/ships deliver to customer.
+    Vessels:
+      Drilling barge
+      Jackup rig
+      Submersible rig
+      Semi-submersible rig
+      Drill ship
+      Offshore oil platform
+    Offshore Drilling companies:
+      Diamond Offshore Drilling: (NYSE:DO) 50 rigs
+      Noble COrp: (NYSE:NE) Oldest, more than 60 vessels.
+        Has subsidiary: Noble Technology Services Division: 
+	  technological think tank
+      Transocean Inc.: (NYSE:RIG) 
+        more than 90 offshore drilling units
+	Expert operating under harsh and extreme weather condition
+	Merge with GlobalSanteFe 2007
+  Dry land:
+    Companies:
+      Nabors Industries (NYSE:NBR)
+      Patterson-UTI Energy Inc. (NASDAQ:PTEN)
+  Oil field maintainence and services:
+    Oil companies trying to maximize existing oil fields.
+    Companies:
+      Halliburton (NYSE:HAL)
+        some political nature
+      Baker Hughes Inc. (NYSE:BHI) 
+      Schlumberger Ltd. (NYSE:SLB)
+  Refineries:
+    A lot of products.
+    Refinery throughput, refinery production, refinery utilization.
+    Major companies usually have refining capability
+    Independent Refineries:
+      Valero Energy Corp (NYSE:VLO) 3.3M barrel capability. Largest in NorthAmerica. Goliath.
+    Smaller Refinery Companies:
+      Sunoco Inc. (NYSE:SUN)
+        1M barrels daily, east coast
+      Tesoro Corp. (NYSE:TSO)
+        MidContinental & Western US.
+    Extremely cyclical industry
+    Independent Refinery compete with subsidiary of major :
+      hard because have to compete by purchasing raw material at market price
+  Oil shipping:
+    Two-third oil tranported via ships, one-third pipelines.
+    Oil tanker margin profit?
+      Supply and Demand
+    Single Hull ship vs double hull ship: single vs. double layers of protection
+      Single hull ship banned!
+      Reduce supply but demand robust still.
+    Oil import dependency:
+      More dependency better for shippers.
+    Shipping vessel types:
+      ULCC: Ultra Large Crude Carrier: larges, long haul voyages
+      VLCC: Very Large Crude Carrier: Intercontinental maritime transportation
+      Suezmax: named because can go through Suez channel, medium haul
+      Aframax: Average Freight Rate Assessment, workhorse of tanker fleet,
+        short-haul voyages.
+      Panamax: Panama. 
+  Petroleum shipping companies:
+    Some regionally, other all four corners,
+    Some small group of VLCC, others larger number of small vessels
+    Some ship only crude oil, others petroleum products i.e. gasoline
+    Frontline Ltd. (NYSE:FRO):
+      One of the oldest, largest fleet of VLCC, more than 44 VLCC.
+      More than 35 Suezmax.
+      One of the largest transportation capacity.
+      18 percent yield
+    General Maritime Corp. (NYSE:GMR)
+      small and midsize segment of tanker market.
+      Suezmax, Aframax Vessels,
+      Atlantic basin
+    Overseas Shipholding Group, Inc. (NMYSE:OSG)
+      Only company with large presence in American Shipping Market
+      OSG: one of highest profit margins in industry (45% asof 2006)
+    Teekay Shipping Corp. (NYSE:TK)
+      more than 130 vessels, one VLCC, 15 Suezmax, 40 Aframax
+      Also has Offshore to Onshore ships
+    Characteristic: High Dividend Payout
+  Industry Risk:
+    Cyclical, fluctuate 60 to 70 daily
+#End page 224, pdf page 244.
+---Metal---
+Chapter 15: Gold
+Precious Metal vs. Base Metal: Resistence to Corrosion.
+  Precious: High resistance.
+  Measurement: 
+    Troy Ounce, 31.1 gram 
+    Karats: Measurement of Purity, 24K
+  Investment ACcess:
+    Physical:
+      Gold Bars
+      Gold Certificates
+        PMCP: Perth Mint Certificate Program
+      Gold Coins
+    Gold ETF:
+      AMEX:IAU
+      NYSE:GLD
+    Gold Company Stocks:
+      AngloGold Ashanti Ltd (NYSE:AU):
+        South Africa, subsidiary of Anglo-American, gold mining giant
+      Barrick Gold Corp (NYSE:ABX):
+        Canadian Company, lowest costs per ounce of gold in industry
+      New Gold, Inc. (AMEX:NGD)
+        Cost per ounce low, high profit margin.
+      Newmont Mining Corp (NYSE:NEM)
+        Largest Gold producer in South America.
+    Gold Contracts:
+      CME/CBOT Mini-Gold (CBOT:YG)
+      CME/CBOT E-Micro Gold (CBOT:MGC)
+      CME?COMEX Gold (COMEX:GC)
+  Silver:
+    Usage
+    Producers
+    Investment:
+      Physical Silver
+      Silver ETF:
+        AMEX:SLV: bullion in vault style
+      Silver Mining Companies:
+        Pan American Silver Corp (NASDAQ:PAAS): Latin American Silver Mines
+        Silver Wheaton Corp. (NYSE:SLW): Geographically diverse
+      Silver future contracts:
+        CBOT Mini-Silver (CBOT: YI)
+	COMEX Silver (COMEX: SI)
+  Platinum:
+    Future Contract:
+      Sensitive to any price shock
+    Platinum Mining Companies:
+      Anglo American PLC (NASDAQ:AAUK)
+      Stillwater mining Company
+#End Page 244, pdf Page 264.
+Chapter 16: Steel, Aluminum, Copper
+Steel: 
+  Measurement: Metric Ton (MT), MMT: Million Metric Ton
+  Facts:
+    China dominates production
+  Steel Companies:
+    Arcelor-Mittal (NYSE:MT)
+    Gerdau (NYSE:GGB)
+    Nucor Corp (NYSE:NUE) 
+    US Steel (NYSE:X): 
+      historical, Andrew Carnegie
+Aluminum:
+  Measurement: Metric Ton
+  Aluminum Future:
+    London Metal Exchange (LME)
+    COMEX of NYMEX (delisted in 2009)
+    upward price pressure from China and India
+  Aluminum Company:
+    Alcoa (NYSE:AA)
+    Aluminum Corp of China (NYSE:ACH), Chinese market production
+Copper:
+  Copper Futures:
+    CMX/COMEX Copper (COMEX:HG)
+    LME Copper (LME:CAD)
+    Upward demand pressurer from China & India
+  Copper Companies:
+    Mining and Process Copper
+    Freeport-McMoRan Inc. (NYSE:FCX)
+      Copper Mining & Smelting, Indonesia & Papua New Guinea
+      Also has Operation in Gold and Silver
+    Phelps Dodge Corp (NYSE:PD)
+      Size & Experience
+#End Page 256, pdf page 276
+Chapter 17: Palladium, Zinc, Nickel
+Palladium:
+  Alternative to Platinum in Automotive & Jewelry Industry
+  Cheaper than Platinum
+  Benefitted from more stringent fuel emission standards by EPA.
+  Two country dominate: Russia & SouthAfrica
+    Because of reserve
+  Companies:
+    North American Palladium (AMEX:PAL)
+      Canada
+    Stillwater Mining Comp (NYSE:SWC)
+      Montana
+    Anglo Platinum Group (SouthAfrica)
+      One of the largest producers in Palladium in the world.
+    Norilsk Nickel (Russia)
+      Largest Producer in World. Available MICEX (Moscow Interbank Currency Exchange).
+  There is also future contracts.
+Zinc:
+  Galvanization
+  Futures:
+    LME.
+Nickel:
+  Australia largest reserve, Russia Company Norilsk Nickel largest producer of Nickel in world.
+  Nickel Mining labor-intensive
+  LME offer future contract for nickel.
+LME: dictated to trading nonferrous metals.
+#End Page 264, pdf page 284.
+Chapter 18: Mining Companies:
+Diversified Mining Companies:
+  BHP Billiton:
+    Economics of Scale
+  Rio Tinto:
+    Historical, Mining Conglomerate all phases of supply chain.
+  Iron ore, Copper, Aluminum, Titanium.
+  Also 30% of world Diamond.
+  Anglo American:
+    Historical Operation, Global Scale.
+    LSE:AAL, NASDAS:AAUK
+    ADR: foreign company access American Capital Markets
+Specialized mining company:
+  Newmont Mining: Gold
+    Largest producer of gold in South America
+  Silver Wheaton: Silver
+  Freeport McMoRan: Copper
+    NYSE:FCX
+    Significant Operation in Production of Molybdenum and related chemicals
+    Molybdenum: construction of oil pipeline etc.
+  Alcoa: Aluminum
+    Largest Producer of Aluminum
+    All phases of Aluminum supply chain
+    Aggressive Moves Overseas
+      Partnership with ACH
+      Purchasing Main Competitor: Alcan
+  Arcelor-Mittal: Steel
+    Interesting M&A story:
+      WhiteKnight: pursue M&A with friendly company
+      Poison Pill: company unattractive to acquirer
+    Merge of number 1 and 2 in the world, 10% of world steel output.
+Merge Mania:
+  Due to high commodity price, Mining company large cash reserve,
+  More likely to acquire small companies
+  Hunter & Hunted
+#End page 276, pdf page 296.
+---Agriculture---
+Chapter 19: Coffee, Cocoa, Sugar, Orange Juice
+Soft Commodities:
+  indispensable & cyclical
+  seasonal
+Coffee:
+  Largest Coffee Producers: Brazil,Vietnam,Indonesia,...
+  Measurement: bag
+  Flavor:
+    Arabica: 60% of production
+      Brazil & Indonesia
+      Premium Coffee Bean
+      Benchmark of Coffee prices
+    Robusta:
+      Easier to grow, less expensive.
+  Coffee Future Contract:
+    on ICE
+  Companies:
+    Starbucks Corp (NASDAQ:SBUX)
+      entire coffee supply chain
+    Peet's Coffe & Tea
+      Only 100 coffee shops, distribution.
+    Green Mountain Coffee Roaster Inc (NASDAQ:GMCR)
+      HQ:Vermont
+      Sell Arabica Coffee
+      Large Presence East Coast
+      Exposure to high-end coffee distribution market in NorthEast.
+Cocoa:
+  Grown in hot and rainy regions around equator
+  Producer:
+    Ivory Coast, Ghana, Indonesia, Nigeria, ...
+  ICE future contract for cocoa
+Sugar:
+  Top producers
+  Future:
+    ICE offer two futures contracts
+    Sugar #11
+      Global Sugar
+    Sugar #14
+      Domestic Sugar
+    #14 tend to me more expensive than #11, #11 most volume
+Orange Juice:
+  Top producer:
+    Brazil, US, India, Mexico, China
+  Orange Perishable, so Future Contract tracks Frozen Concentrated Orange Juice. (FCOJ)
+  Future Contract on ICE: Two versions
+    FCOJ-A: Florida/Brazil
+    FCOJ-B: World
+  Production very sensitive to weather
+    I.e. Hurricane season in Florida impact
+#End page 290, pdf page 310
+Chapter 20: Corn, wheat, soybeans
+Corn:
+  high-grade number 2, number 3 yellow corn
+  Future contract Measurement: Bushel
+  Top producers: US, China, Brazil, ...
+Wheat:
+  Top producers: China, India, Russia, US, ...
+  Measurement: Bushel
+Soybeans:
+  US dominate soybean market more than 50% production global.
+  Brazil about 20%.
+  Price cyclical.
+  Soybean Oil:...
+  Soybean meal: 饲料
+#End page 300, pdf page 320
+Chapter 21: Livestock
+  Notoriously Volatile
+Cattle:
+  Live Cattle: CME contract
+  Feeder Cattle: thinly traded.
+  Case: Mad Cow Disease Supply/Demand Change:
+    demand drop: people don't want to buy
+    supply drop: eliminate sick cattle
+Lean hogs:
+  CME contract: LH
+    very very volatile
+    not liquid
+Frozen Pork Belly:
+  Bacon.
+  Volatile.
+  Seasonal Market.
+  Production major factor of market price,
+  Other variables: 
+    Build up of port belly inventories usually happen at beginning of calendar year, resulting in lower prices.
+    Inventories less and less, price higher 
+  
+    
+
+
+
+
+
